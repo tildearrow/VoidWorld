@@ -3,4 +3,4 @@ main: com.chaseoes.voidworld.VoidWorld
 version: ${project.version}
 description: ${project.description}
 load: startup
-api-version: 1.13
+api-version: 1.16

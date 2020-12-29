@@ -6,7 +6,7 @@
 
     <name>VoidWorld</name>
     <description>A simple void world generator.</description>
-    <version>1.1</version>
+    <version>1.2</version>
     
     <groupId>com.chaseoes</groupId>
     <artifactId>voidworld</artifactId>
@@ -18,7 +18,7 @@
     </properties>
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/wherkamp/VoidWorld/issues</url>
+        <url>https://github.com/tildearrow/VoidWorld/issues</url>
     </issueManagement>
 
     <build>
@@ -68,7 +68,7 @@
         <dependency>
             <groupId>org.spigotmc</groupId>
             <artifactId>spigot-api</artifactId>
-            <version>1.15.2-R0.1-SNAPSHOT</version>
+            <version>1.16.4-R0.1-SNAPSHOT</version>
             <scope>provided</scope>
         </dependency>
     </dependencies>
